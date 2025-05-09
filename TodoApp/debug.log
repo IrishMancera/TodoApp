@@ -1,0 +1,134 @@
+nullnullRaw Data: {
+  "action": "register",
+  "username": "testuser",
+  "email": "test@example.com",
+  "password": "123456"
+}
+
+Decoded JSON: {
+    "action": "register",
+    "username": "testuser",
+    "email": "test@example.com",
+    "password": "123456"
+}
+{
+    "action": "register",
+    "username": "testuser",
+    "email": "test@example.com",
+    "password": "123456"
+}
+{
+    "action": "register",
+    "username": "irishmancera",
+    "email": "irishmancera267@gmail.com",
+    "password": "redredset"
+}
+{
+    "action": "login",
+    "username": "irishmancera",
+    "password": "redredset"
+}
+{
+    "action": "register",
+    "username": "irishmancera",
+    "email": "irishmancera267@gmail.com",
+    "password": "setredsetred"
+}
+{
+    "action": "login",
+    "username": "irishmancera",
+    "password": "setredsetred"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "create_task",
+    "user_id": 5,
+    "title": "Take Notes then do VSrpompt",
+    "description": "Need to catch up Strastan Concern ",
+    "status": "Pending"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "login",
+    "username": "irishmancera",
+    "password": "setredsetred"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "login",
+    "username": "irishmancera",
+    "password": "setredsetred"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "create_task",
+    "user_id": 5,
+    "title": "Take a break ",
+    "description": "hahaahah kasi pagod kana",
+    "status": "Pending"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "login",
+    "username": "irishmancera",
+    "password": "setredsetred"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "login",
+    "username": "irishmancera",
+    "password": "setredsetred"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "create_task",
+    "user_id": 5,
+    "title": "dnsj",
+    "description": "dnow",
+    "status": "Pending"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "login",
+    "username": "irishmancera ",
+    "password": "setredsetred"
+}
+{
+    "action": "get_tasks",
+    "user_id": 5
+}
+{
+    "action": "register",
+    "username": "Red ",
+    "email": "irishmancera267@gmail.com",
+    "password": "redredsetset"
+}
+{
+    "action": "login",
+    "username": "Red ",
+    "password": "redredsetset"
+}
